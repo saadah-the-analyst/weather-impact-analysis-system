@@ -149,8 +149,8 @@ When asked how this system will automatically update instead of relying on stati
 
 Ensure you have Python and Jupyter Notebook installed.
 
-2. Open your terminal or Jupyter Notebook environment and open your file:
-weather-impact-analysis-management-system.ipynb
+2. Open your terminal or Jupyter Notebook environment and open your file: [weather-impact-analysis-management-system.ipynb](https://github.com/saadah-the-analyst/weather-impact-analysis-system/blob/main/weather-impact-analysis-management-system.ipynb)
+
 
 
 3. Run the notebook cells step-by-step or use the "Run All" feature to explore weather summaries, risk alerts, and regional leaderboards.
