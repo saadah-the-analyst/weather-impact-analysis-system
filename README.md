@@ -138,6 +138,28 @@ When asked how this system will automatically update instead of relying on stati
 2. **Live Weather APIs:** Connecting our script to live meteorological data feeds—such as automated APIs from official bodies like the **Nigerian Meteorological Agency (NiMet)**—to pull fresh temperature, rainfall, and wind data daily without manual typing.
 3. **Automated Data Pipelines:** Using libraries like Pandas to ingest live data streams automatically, run our custom risk-scoring and threshold functions in the background, and instantly push updated alerts or dashboard visuals to farm managers.
 
+___
+
+---
+
+##  Code Highlights
+
+Here is a look at the code structure and output for the Weather Impact Analysis System:
+
+### 1. Data Loading and Initial Inspection
+*This section defines the structured weather dataset containing meteorological observations, crop yields, and disruption tracking metrics.*
+
+![Data Loading Screenshot](screenshot-1.png)
+
+### 2. Core Analysis Logic & Calculations
+*The central script featuring functions like custom condition checks and metric calculations to process the weather data.*
+
+![Core Logic Screenshot](screenshot-2.png)
+
+### 3. Project Output & Insights
+*The interactive menu output displaying the generated weather risk alerts and evaluation scores.*
+
+![Project Output Screenshot](screenshot-3.png)
 
 ---
 
