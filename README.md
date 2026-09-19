@@ -149,17 +149,17 @@ Here is a look at the code structure and output for the Weather Impact Analysis 
 ### 1. Data Loading and Initial Inspection
 *This section defines the structured weather dataset containing meteorological observations, crop yields, and disruption tracking metrics.*
 
-![Data Loading Screenshot](screenshot-1.png)
+![Data Loading Screenshot](1.png)
 
 ### 2. Core Analysis Logic & Calculations
 *The central script featuring functions like custom condition checks and metric calculations to process the weather data.*
 
-![Core Logic Screenshot](screenshot-2.png)
+![Core Logic Screenshot](2.png)
 
 ### 3. Project Output & Insights
 *The interactive menu output displaying the generated weather risk alerts and evaluation scores.*
 
-![Project Output Screenshot](screenshot-3.png)
+![Project Output Screenshot](3.png)
 
 ---
 
