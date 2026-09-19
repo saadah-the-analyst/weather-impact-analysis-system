@@ -1,4 +1,4 @@
-# weather-impact-analysis-system-
+# weather-impact-analysis-system
 
 
 # Weather Impact Analysis System
