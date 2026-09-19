@@ -7,7 +7,7 @@ A comprehensive, pure Python-based command-line analytics prototype designed to 
 
 ---
 
-## 📌 Project Background & Problem Statement
+## Project Background & Problem Statement
 
 In modern agricultural sectors across tropical environments, commercial farming and crop production face severe financial, operational, and supply-chain risks driven by unpredictable climatic variations. Unmonitored environmental shifts—such as extreme thermal spikes, prolonged droughts, and heavy unseasonal downpours—directly threaten field schedules, crop physiology, and daily logistics. 
 
@@ -17,7 +17,7 @@ The **Weather Impact Analysis System** was built from the ground up to bridge th
 
 ---
 
-## 🛠️ Development Challenges Faced & Solutions Implemented
+##  Development Challenges Faced & Solutions Implemented
 
 Building a complete analytics engine entirely from scratch using pure Python without relying on advanced data science libraries came with specific technical hurdles. Here are the exact challenges faced during development and how they were solved:
 
@@ -35,7 +35,7 @@ Building a complete analytics engine entirely from scratch using pure Python wit
 
 ---
 
-## 💻 Step-by-Step Breakdown of the Python Code Components
+##  Step-by-Step Breakdown of the Python Code Components
 
 Every single part of the Python script was written from scratch. Here is a detailed explanation of each component piece by piece:
 
@@ -67,7 +67,7 @@ Every single part of the Python script was written from scratch. Here is a detai
 
 ---
 
-## 📂 Data Scope & Source Transparency
+##  Data Scope & Source Transparency
 
 A frequent and critical question asked by evaluators during reviews is: *"The data is based on ground observations—where did we get the data from, and how is it structured?"*
 
@@ -91,7 +91,7 @@ Every single record comprehensively tracks **six key variables**:
 
 ---
 
-## 📊 Major Analytical Findings & Results
+##  Major Analytical Findings & Results
 
 When our analytical scripts ran across the 30 records, several critical insights emerged:
 
@@ -104,7 +104,7 @@ When our analytical scripts ran across the 30 records, several critical insights
 
 ---
 
-## 🏭 Industrial Applications & Climate Relevance
+##  Industrial Applications & Climate Relevance
 
 Evaluators frequently ask: *What are the industrial applications, and how can we apply this to climate?* While our project runs on a small prototype dataset, the underlying logic has massive real-world applications across three major industries:
 
@@ -117,7 +117,7 @@ Evaluators frequently ask: *What are the industrial applications, and how can we
 
 ---
 
-## 💡 Detailed Strategic Recommendations
+## Strategic Recommendations
 
 Based on our Observation-Interpretation-Recommendation framework, we developed three major strategic solutions for farm and business managers:
 
@@ -131,7 +131,7 @@ Based on our Observation-Interpretation-Recommendation framework, we developed t
 
 ---
 
-## 🔄 Future Scalability: How the System Automatically Updates
+## Future Scalability: How the System Automatically Updates
 
 When asked how this system will automatically update instead of relying on static simulated data, the technical roadmap involves three major upgrades:
 1. **Relational Databases:** Migrating from hardcoded Python dictionaries to database systems like PostgreSQL or SQLite where incoming daily data can be stored securely.
@@ -141,7 +141,7 @@ When asked how this system will automatically update instead of relying on stati
 
 ---
 
-## 🚀 Getting Started & Running the Code
+##  Getting Started & Running the Code
 
 1. Clone the repository to your local machine:
    ```bash
@@ -149,9 +149,8 @@ When asked how this system will automatically update instead of relying on stati
 
 Ensure you have Python and Jupyter Notebook installed.
 
-Open your terminal or Jupyter Notebook environment and open your file using the exact hyphenated filename:
-
-weather-impact-analysis-management-system.ipynb
+2. Open your terminal or Jupyter Notebook environment and open your file:
+⁠weather-impact-analysis-management-system.ipynb⁠
 
 Run the notebook cells step-by-step or use the "Run All" feature to explore weather summaries, risk alerts, and regional leaderboards.
 
